@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: Made additions to the left paths story where the player  defeats the dragon
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: Added more to the villian story, the player loses and gets their stuff taken
 - Made README.md change for villian path on the hero branch on accident 
 
 ## Final Checklist
