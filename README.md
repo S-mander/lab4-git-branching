@@ -19,6 +19,8 @@ You will:
 - `villain-path`: Added more to the villian story, the player loses and gets their stuff taken
 - Made README.md change for villian path on the hero branch on accident 
 
+-I realized I spelled villain wrong initially, it was causing errors on codegrade
+
 ## Final Checklist
 
 - [ ] At least 3 branches (`main`, `hero-path`, `villain-path`)
