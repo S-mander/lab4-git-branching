@@ -21,6 +21,7 @@ def right_path():
 
 def center_path():
     print("You walk straight ahead and fall into a hidden pit. Game over.")
+    print("Better luck next time!")
 
 if __name__ == "__main__":
     intro()
